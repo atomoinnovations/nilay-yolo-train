@@ -1,0 +1,13 @@
+train: C:\Users\Admin\Downloads\horse-detection.v1-horse_detection_1.yolov8 (1)\train
+val: C:\Users\Admin\Downloads\horse-detection.v1-horse_detection_1.yolov8 (1)\train
+test: C:\Users\Admin\Downloads\horse-detection.v1-horse_detection_1.yolov8 (1)\train
+
+nc: 1
+names: ['horse']
+
+roboflow:
+  workspace: nilayroboflow
+  project: horse-detection-hiu1l
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nilayroboflow/horse-detection-hiu1l/dataset/1
