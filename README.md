@@ -1,1 +1,2 @@
-Sir, on 24-12-2024 I uploaded 1000+ images, annotated 300 images, trained 2 YOLO models, and tested predictions.
+# day_4-25-12-2025-work
+Sir, on 24-12-2024  annotated 300 images, tested predictions of two models.
