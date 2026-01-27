@@ -1,0 +1,10 @@
+- Today  i make new Dataset of horse detection.
+- 300 images per view.
+- 1) front view.
+- 2) Back view.
+- 3) Side view.
+- 4) near and far view.
+- Single Horses = 1200.
+- Multiple Horses = 1200.
+- Total 2400 images.
+- And I Trained bubble detection with 100 epochs and predict that Model.
