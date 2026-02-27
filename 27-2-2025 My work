@@ -1,0 +1,22 @@
+- today i solve error of dashboard of AI_Attendance_System(Face_Recognition).
+- and put model in train of violence and non_violence okay with 150 epoches in kaggle.
+
+setup of AI_Attendance_System(Face recogination)
+
+1. download anaconda.
+2. cd file path of your project.
+3. then create env  code :- conda activate (Environment name).
+4. and only use python version 3.9.25.
+5. import all pip 
+
+pip install streamlit==1.39.0
+pip install opencv-python==4.10.0.84
+pip install opencv-contrib-python==4.10.0.84
+pip install deepface==0.0.93
+pip install tensorflow==2.17.0
+pip install numpy==1.26.4
+pip install pandas==2.2.3
+pip install scikit-learn==1.5.2
+pip install altair==5.4.1
+pip install playsound==1.3.0
+pip install pickle5  # optional, only if you have older pickle files.
