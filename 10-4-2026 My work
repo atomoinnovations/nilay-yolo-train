@@ -1,0 +1,8 @@
+Good morning Sir,
+
+Here is my progress update for today:
+
+1. Reviewed and verified all annotations for the violence and non-violence dataset.
+2. Investigated the issue of receiving only violence predictions and worked on identifying the root cause of the error.
+3. After identifying the problem, performed classification and annotated segmentation 30 additional images.
+4. Successfully uploaded the dataset containing 827 images.
