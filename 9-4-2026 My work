@@ -1,0 +1,3 @@
+Today, I annotated 200 images. I also worked on creating a dataset for violence and non-violence detection. I trained the model for 300 epochs, and it achieved good accuracy for violence classification.
+
+However, the model needs improvement in detecting non-violence cases. To address this, I started organizing and classifying non-violence data. Tomorrow, I plan to download and add around 600 non-violence images to balance the dataset and improve model performance.
