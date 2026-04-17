@@ -1,0 +1,9 @@
+I would like to update you on my progress today:
+
+Dataset Collection: I have curated 400 images specifically focused on violence (sourced from WWE) to capture high-impact physical interactions.
+
+Classification & Analysis: I have classified these images and analyzed the required dataset volume to ensure high model accuracy.
+
+Model Research: I have been researching violence detection architectures and training strategies to optimize performance for real-world scenarios.
+
+Next Steps: I will focus on balancing the dataset with non-violence images and starting the data augmentation process and find more images for violence and non_violence Detection.
